@@ -20,9 +20,11 @@ This extension is available on the [GNOME Extensions Website][extension-url].
 
 [![badge]][extension-url]
 
+<!--
 ### AUR
 
 _WIP_
+-->
 
 ### Manually
 
