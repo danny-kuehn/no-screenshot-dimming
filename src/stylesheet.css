@@ -1,4 +1,9 @@
-/* Disable shading for area selector in screenshot UI */
+/* Disable dimming for the screenshot area selector */
 .screenshot-ui-area-selector .screenshot-ui-area-indicator-shade {
   background-color: transparent !important;
+}
+
+/* GNOME blue border for better visibility on white backgrounds */
+.screenshot-ui-area-selector .screenshot-ui-area-indicator-selection {
+  border: 2px #3584e4 !important;
 }
